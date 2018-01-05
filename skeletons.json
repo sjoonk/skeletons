@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Ractive.js",
+      "url": "usefulparadigm/brunch-ractive",
+      "alias": "ractive",
+      "technologies": "Babel, ES6, Ractivejs",
+      "description": "A HTML5 app skeleton, built with Brunch and Ractive.js."
+    },
+    {
       "title": "Elm",
       "url": "MattCheely/elm-brunch-skeleton",
       "technologies": "Elm",
